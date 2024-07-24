@@ -1,6 +1,5 @@
 import tkinter as tk
 import numpy as np
-import pillow as pil
 
 
 a = np.arange(15).reshape(3, 5)
